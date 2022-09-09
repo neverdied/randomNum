@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\随机数生成\随机数生成\bin\Debug\随机数生成.exe.config
+C:\Users\Administrator\source\repos\随机数生成\随机数生成\bin\Debug\随机数生成.exe
+C:\Users\Administrator\source\repos\随机数生成\随机数生成\bin\Debug\随机数生成.pdb
+C:\Users\Administrator\source\repos\随机数生成\随机数生成\obj\Debug\随机数生成.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\随机数生成\随机数生成\obj\Debug\随机数生成.Form1.resources
+C:\Users\Administrator\source\repos\随机数生成\随机数生成\obj\Debug\随机数生成.Properties.Resources.resources
+C:\Users\Administrator\source\repos\随机数生成\随机数生成\obj\Debug\随机数生成.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\随机数生成\随机数生成\obj\Debug\随机数生成.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\随机数生成\随机数生成\obj\Debug\随机数生成.exe
+C:\Users\Administrator\source\repos\随机数生成\随机数生成\obj\Debug\随机数生成.pdb
